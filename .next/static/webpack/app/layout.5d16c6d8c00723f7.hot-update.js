@@ -1,0 +1,21 @@
+/*
+ * ATTENTION: An "eval-source-map" devtool has been used.
+ * This devtool is neither made for production nor for readable output files.
+ * It uses "eval()" calls to create a separate source file with attached SourceMaps in the browser devtools.
+ * If you are trying to read the output file, select a different devtool (https://webpack.js.org/configuration/devtool/)
+ * or disable the default devtool with "devtool: false".
+ * If you are looking for production-ready output files, see mode: "production" (https://webpack.js.org/configuration/mode/).
+ */
+self["webpackHotUpdate_N_E"]("app/layout",{
+
+/***/ "(app-client)/./node_modules/next/dist/build/webpack/loaders/next-flight-client-entry-loader.js?modules=%2FUsers%2Fkhoa%2FProgramming%2Fpromptopia%2Fstyles%2Fglobals.css&modules=%2FUsers%2Fkhoa%2FProgramming%2Fpromptopia%2Fcomponents%2FNav.jsx&modules=%2FUsers%2Fkhoa%2FProgramming%2Fpromptopia%2Fcomponents%2FProvider.jsx&server=false!":
+/*!******************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/next/dist/build/webpack/loaders/next-flight-client-entry-loader.js?modules=%2FUsers%2Fkhoa%2FProgramming%2Fpromptopia%2Fstyles%2Fglobals.css&modules=%2FUsers%2Fkhoa%2FProgramming%2Fpromptopia%2Fcomponents%2FNav.jsx&modules=%2FUsers%2Fkhoa%2FProgramming%2Fpromptopia%2Fcomponents%2FProvider.jsx&server=false! ***!
+  \******************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+/***/ (function(__unused_webpack_module, __unused_webpack_exports, __webpack_require__) {
+
+eval(__webpack_require__.ts("Promise.resolve(/*! import() eager */).then(__webpack_require__.bind(__webpack_require__, /*! ./styles/globals.css */ \"(app-client)/./styles/globals.css\"));\nPromise.resolve(/*! import() eager */).then(__webpack_require__.bind(__webpack_require__, /*! ./components/Nav.jsx */ \"(app-client)/./components/Nav.jsx\"));\nPromise.resolve(/*! import() eager */).then(__webpack_require__.bind(__webpack_require__, /*! ./components/Provider.jsx */ \"(app-client)/./components/Provider.jsx\"))//# sourceURL=[module]\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiKGFwcC1jbGllbnQpLy4vbm9kZV9tb2R1bGVzL25leHQvZGlzdC9idWlsZC93ZWJwYWNrL2xvYWRlcnMvbmV4dC1mbGlnaHQtY2xpZW50LWVudHJ5LWxvYWRlci5qcz9tb2R1bGVzPSUyRlVzZXJzJTJGa2hvYSUyRlByb2dyYW1taW5nJTJGcHJvbXB0b3BpYSUyRnN0eWxlcyUyRmdsb2JhbHMuY3NzJm1vZHVsZXM9JTJGVXNlcnMlMkZraG9hJTJGUHJvZ3JhbW1pbmclMkZwcm9tcHRvcGlhJTJGY29tcG9uZW50cyUyRk5hdi5qc3gmbW9kdWxlcz0lMkZVc2VycyUyRmtob2ElMkZQcm9ncmFtbWluZyUyRnByb21wdG9waWElMkZjb21wb25lbnRzJTJGUHJvdmlkZXIuanN4JnNlcnZlcj1mYWxzZSEuanMiLCJtYXBwaW5ncyI6IkFBQUEsMkpBQTBGO0FBQzFGLDJKQUEwRjtBQUMxRiIsInNvdXJjZXMiOlsid2VicGFjazovL19OX0UvPzg5ODEiXSwic291cmNlc0NvbnRlbnQiOlsiaW1wb3J0KC8qIHdlYnBhY2tNb2RlOiBcImVhZ2VyXCIgKi8gXCIvVXNlcnMva2hvYS9Qcm9ncmFtbWluZy9wcm9tcHRvcGlhL3N0eWxlcy9nbG9iYWxzLmNzc1wiKTtcbmltcG9ydCgvKiB3ZWJwYWNrTW9kZTogXCJlYWdlclwiICovIFwiL1VzZXJzL2tob2EvUHJvZ3JhbW1pbmcvcHJvbXB0b3BpYS9jb21wb25lbnRzL05hdi5qc3hcIik7XG5pbXBvcnQoLyogd2VicGFja01vZGU6IFwiZWFnZXJcIiAqLyBcIi9Vc2Vycy9raG9hL1Byb2dyYW1taW5nL3Byb21wdG9waWEvY29tcG9uZW50cy9Qcm92aWRlci5qc3hcIikiXSwibmFtZXMiOltdLCJzb3VyY2VSb290IjoiIn0=\n//# sourceURL=webpack-internal:///(app-client)/./node_modules/next/dist/build/webpack/loaders/next-flight-client-entry-loader.js?modules=%2FUsers%2Fkhoa%2FProgramming%2Fpromptopia%2Fstyles%2Fglobals.css&modules=%2FUsers%2Fkhoa%2FProgramming%2Fpromptopia%2Fcomponents%2FNav.jsx&modules=%2FUsers%2Fkhoa%2FProgramming%2Fpromptopia%2Fcomponents%2FProvider.jsx&server=false!\n"));
+
+/***/ })
+
+});
